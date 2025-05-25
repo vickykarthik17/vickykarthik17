@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vickykarthik17
-- 👀 I’m interested in ...code
-- 🌱 I’m currently learning ...code
-- 💞️ I’m looking to collaborate on ..
-<!---
-vickykarthik17/vickykarthik17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Final Year Computer Science Student | 💻 Aspiring Python Developer |  📊 Data Science & Analytics Enthusiast
+🎯 Passionate about building scalable apps 
+🔧 Projects: PetConnect | Movie Recommendation System | Commonwealth Games Analysis
+📊 Skills: Python,R, React,MySQL,MongoDB,PowerBI, Git & GitHub,Django
+📫 Let’s connect and build something awesome!
+
